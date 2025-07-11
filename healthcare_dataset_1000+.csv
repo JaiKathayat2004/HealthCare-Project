@@ -1,0 +1,1001 @@
+﻿patient_id,name,gender,age,city
+1,Patient 1,M,65,New York
+2,Patient 2,F,25,San Diego
+3,Patient 3,F,37,San Diego
+4,Patient 4,F,52,New York
+5,Patient 5,F,72,Los Angeles
+6,Patient 6,M,35,Dallas
+7,Patient 7,F,79,San Antonio
+8,Patient 8,M,49,Houston
+9,Patient 9,M,53,Dallas
+10,Patient 10,M,32,Los Angeles
+11,Patient 11,M,70,New York
+12,Patient 12,F,78,Philadelphia
+13,Patient 13,M,52,Dallas
+14,Patient 14,M,35,Houston
+15,Patient 15,F,39,Los Angeles
+16,Patient 16,F,89,Houston
+17,Patient 17,F,46,Chicago
+18,Patient 18,M,29,San Jose
+19,Patient 19,M,33,San Antonio
+20,Patient 20,F,35,Philadelphia
+21,Patient 21,F,61,San Diego
+22,Patient 22,F,30,San Diego
+23,Patient 23,F,68,San Antonio
+24,Patient 24,M,72,San Jose
+25,Patient 25,F,87,Chicago
+26,Patient 26,F,40,Dallas
+27,Patient 27,M,88,New York
+28,Patient 28,F,41,New York
+29,Patient 29,M,58,Dallas
+30,Patient 30,M,77,Dallas
+31,Patient 31,M,51,San Antonio
+32,Patient 32,M,80,Phoenix
+33,Patient 33,M,85,San Antonio
+34,Patient 34,M,81,San Antonio
+35,Patient 35,M,36,Dallas
+36,Patient 36,M,32,San Diego
+37,Patient 37,M,45,Philadelphia
+38,Patient 38,M,57,Chicago
+39,Patient 39,M,71,San Jose
+40,Patient 40,F,60,Houston
+41,Patient 41,F,59,San Antonio
+42,Patient 42,F,69,Houston
+43,Patient 43,M,87,San Antonio
+44,Patient 44,F,84,San Diego
+45,Patient 45,F,23,Philadelphia
+46,Patient 46,M,52,San Jose
+47,Patient 47,F,35,Phoenix
+48,Patient 48,M,18,San Diego
+49,Patient 49,F,24,Phoenix
+50,Patient 50,F,47,Philadelphia
+51,Patient 51,M,33,San Jose
+52,Patient 52,F,34,Los Angeles
+53,Patient 53,F,89,Philadelphia
+54,Patient 54,M,57,San Antonio
+55,Patient 55,F,25,Dallas
+56,Patient 56,F,48,San Jose
+57,Patient 57,F,30,Houston
+58,Patient 58,M,31,San Jose
+59,Patient 59,M,42,San Diego
+60,Patient 60,F,78,San Antonio
+61,Patient 61,F,45,Chicago
+62,Patient 62,F,66,San Antonio
+63,Patient 63,F,32,San Jose
+64,Patient 64,M,72,San Jose
+65,Patient 65,F,55,Phoenix
+66,Patient 66,F,29,Chicago
+67,Patient 67,F,54,Los Angeles
+68,Patient 68,F,68,Houston
+69,Patient 69,M,35,San Antonio
+70,Patient 70,F,66,San Diego
+71,Patient 71,F,80,Houston
+72,Patient 72,M,44,Los Angeles
+73,Patient 73,M,68,San Antonio
+74,Patient 74,M,87,Philadelphia
+75,Patient 75,F,27,New York
+76,Patient 76,M,25,Dallas
+77,Patient 77,M,49,Chicago
+78,Patient 78,F,49,San Jose
+79,Patient 79,M,37,San Antonio
+80,Patient 80,F,61,Dallas
+81,Patient 81,M,80,Phoenix
+82,Patient 82,M,79,Chicago
+83,Patient 83,M,69,Chicago
+84,Patient 84,F,18,Chicago
+85,Patient 85,M,62,Chicago
+86,Patient 86,F,32,Chicago
+87,Patient 87,F,52,San Jose
+88,Patient 88,F,18,Houston
+89,Patient 89,F,69,San Jose
+90,Patient 90,F,35,Phoenix
+91,Patient 91,F,76,Philadelphia
+92,Patient 92,F,42,Philadelphia
+93,Patient 93,F,66,New York
+94,Patient 94,M,80,San Jose
+95,Patient 95,M,38,San Diego
+96,Patient 96,F,80,San Jose
+97,Patient 97,M,81,Los Angeles
+98,Patient 98,F,76,Houston
+99,Patient 99,F,54,Philadelphia
+100,Patient 100,F,80,Chicago
+101,Patient 101,F,69,San Diego
+102,Patient 102,M,31,New York
+103,Patient 103,M,33,Philadelphia
+104,Patient 104,F,52,Chicago
+105,Patient 105,F,37,Phoenix
+106,Patient 106,F,30,Los Angeles
+107,Patient 107,M,82,Philadelphia
+108,Patient 108,M,65,Houston
+109,Patient 109,F,48,Chicago
+110,Patient 110,F,25,San Diego
+111,Patient 111,M,84,Los Angeles
+112,Patient 112,M,45,Philadelphia
+113,Patient 113,F,23,Chicago
+114,Patient 114,M,26,Houston
+115,Patient 115,F,37,San Jose
+116,Patient 116,F,20,New York
+117,Patient 117,F,89,New York
+118,Patient 118,F,54,San Antonio
+119,Patient 119,F,30,Houston
+120,Patient 120,M,25,San Antonio
+121,Patient 121,M,58,San Jose
+122,Patient 122,F,85,San Antonio
+123,Patient 123,M,61,Los Angeles
+124,Patient 124,F,65,Phoenix
+125,Patient 125,M,81,Dallas
+126,Patient 126,F,42,San Jose
+127,Patient 127,F,35,Dallas
+128,Patient 128,F,34,Phoenix
+129,Patient 129,M,77,San Jose
+130,Patient 130,F,37,Los Angeles
+131,Patient 131,M,79,San Antonio
+132,Patient 132,M,47,Dallas
+133,Patient 133,F,68,Los Angeles
+134,Patient 134,M,33,Chicago
+135,Patient 135,F,81,New York
+136,Patient 136,M,61,Houston
+137,Patient 137,M,40,San Jose
+138,Patient 138,M,75,New York
+139,Patient 139,M,55,New York
+140,Patient 140,M,35,Houston
+141,Patient 141,M,38,Los Angeles
+142,Patient 142,F,61,Los Angeles
+143,Patient 143,F,49,Dallas
+144,Patient 144,F,65,Philadelphia
+145,Patient 145,M,36,San Antonio
+146,Patient 146,M,75,New York
+147,Patient 147,F,35,Los Angeles
+148,Patient 148,M,31,San Diego
+149,Patient 149,M,53,San Antonio
+150,Patient 150,M,45,San Diego
+151,Patient 151,M,19,San Diego
+152,Patient 152,F,79,Los Angeles
+153,Patient 153,F,73,New York
+154,Patient 154,F,65,Los Angeles
+155,Patient 155,M,63,San Antonio
+156,Patient 156,F,80,San Diego
+157,Patient 157,F,18,New York
+158,Patient 158,M,64,San Diego
+159,Patient 159,M,21,Houston
+160,Patient 160,M,82,San Jose
+161,Patient 161,M,41,San Antonio
+162,Patient 162,M,75,San Diego
+163,Patient 163,F,42,Chicago
+164,Patient 164,M,39,San Antonio
+165,Patient 165,F,47,Los Angeles
+166,Patient 166,M,29,Houston
+167,Patient 167,M,78,Phoenix
+168,Patient 168,F,26,Dallas
+169,Patient 169,F,88,Phoenix
+170,Patient 170,F,46,Philadelphia
+171,Patient 171,M,60,San Jose
+172,Patient 172,M,71,Los Angeles
+173,Patient 173,M,89,Dallas
+174,Patient 174,F,69,San Jose
+175,Patient 175,F,25,Philadelphia
+176,Patient 176,M,32,Los Angeles
+177,Patient 177,M,69,San Antonio
+178,Patient 178,M,51,New York
+179,Patient 179,F,39,Los Angeles
+180,Patient 180,M,31,Dallas
+181,Patient 181,F,63,Houston
+182,Patient 182,F,87,Chicago
+183,Patient 183,F,38,Houston
+184,Patient 184,F,44,Philadelphia
+185,Patient 185,M,67,San Diego
+186,Patient 186,M,64,San Jose
+187,Patient 187,M,30,New York
+188,Patient 188,M,83,Los Angeles
+189,Patient 189,F,87,San Jose
+190,Patient 190,F,41,San Diego
+191,Patient 191,M,54,Chicago
+192,Patient 192,F,77,San Antonio
+193,Patient 193,M,40,Chicago
+194,Patient 194,F,25,Phoenix
+195,Patient 195,M,57,Phoenix
+196,Patient 196,M,61,New York
+197,Patient 197,M,86,Philadelphia
+198,Patient 198,F,42,Houston
+199,Patient 199,F,42,Chicago
+200,Patient 200,F,61,Dallas
+201,Patient 201,F,40,Philadelphia
+202,Patient 202,M,56,San Antonio
+203,Patient 203,M,48,Philadelphia
+204,Patient 204,M,62,San Diego
+205,Patient 205,F,46,Dallas
+206,Patient 206,M,73,San Diego
+207,Patient 207,F,51,Dallas
+208,Patient 208,F,86,San Diego
+209,Patient 209,F,79,San Jose
+210,Patient 210,F,32,Los Angeles
+211,Patient 211,M,23,Los Angeles
+212,Patient 212,F,70,Philadelphia
+213,Patient 213,F,57,Chicago
+214,Patient 214,M,36,New York
+215,Patient 215,F,26,Dallas
+216,Patient 216,F,33,Phoenix
+217,Patient 217,F,31,Chicago
+218,Patient 218,M,83,New York
+219,Patient 219,M,87,Philadelphia
+220,Patient 220,F,66,Houston
+221,Patient 221,F,48,San Diego
+222,Patient 222,F,48,San Antonio
+223,Patient 223,M,65,San Diego
+224,Patient 224,F,72,San Diego
+225,Patient 225,F,84,San Jose
+226,Patient 226,M,20,Phoenix
+227,Patient 227,F,45,San Jose
+228,Patient 228,M,52,San Jose
+229,Patient 229,F,48,Phoenix
+230,Patient 230,F,84,Phoenix
+231,Patient 231,M,18,San Jose
+232,Patient 232,F,82,Houston
+233,Patient 233,F,46,Chicago
+234,Patient 234,M,31,San Diego
+235,Patient 235,F,78,Chicago
+236,Patient 236,F,47,Philadelphia
+237,Patient 237,M,42,New York
+238,Patient 238,F,73,Chicago
+239,Patient 239,F,54,Los Angeles
+240,Patient 240,F,56,San Jose
+241,Patient 241,F,36,San Antonio
+242,Patient 242,M,65,Chicago
+243,Patient 243,F,61,Chicago
+244,Patient 244,M,81,Los Angeles
+245,Patient 245,F,47,Phoenix
+246,Patient 246,F,64,San Jose
+247,Patient 247,M,27,San Jose
+248,Patient 248,M,18,Philadelphia
+249,Patient 249,F,75,Phoenix
+250,Patient 250,M,26,San Diego
+251,Patient 251,M,86,Phoenix
+252,Patient 252,F,41,Los Angeles
+253,Patient 253,F,67,Los Angeles
+254,Patient 254,F,41,San Antonio
+255,Patient 255,M,87,San Jose
+256,Patient 256,M,20,Phoenix
+257,Patient 257,M,61,Phoenix
+258,Patient 258,F,20,Phoenix
+259,Patient 259,F,54,Chicago
+260,Patient 260,M,22,Dallas
+261,Patient 261,M,72,Phoenix
+262,Patient 262,F,30,Philadelphia
+263,Patient 263,F,37,Dallas
+264,Patient 264,M,70,New York
+265,Patient 265,M,24,Phoenix
+266,Patient 266,M,82,San Jose
+267,Patient 267,F,70,Houston
+268,Patient 268,F,18,San Antonio
+269,Patient 269,M,84,San Antonio
+270,Patient 270,F,21,San Jose
+271,Patient 271,F,25,Philadelphia
+272,Patient 272,F,30,San Antonio
+273,Patient 273,F,48,Chicago
+274,Patient 274,M,88,Chicago
+275,Patient 275,F,88,San Jose
+276,Patient 276,F,33,Chicago
+277,Patient 277,F,46,San Diego
+278,Patient 278,M,19,Philadelphia
+279,Patient 279,F,45,Phoenix
+280,Patient 280,M,19,New York
+281,Patient 281,M,55,New York
+282,Patient 282,F,70,Chicago
+283,Patient 283,F,58,Chicago
+284,Patient 284,M,66,San Jose
+285,Patient 285,F,70,Los Angeles
+286,Patient 286,F,72,San Jose
+287,Patient 287,M,20,Chicago
+288,Patient 288,F,71,Los Angeles
+289,Patient 289,M,60,Houston
+290,Patient 290,M,52,Dallas
+291,Patient 291,M,80,Los Angeles
+292,Patient 292,F,78,San Antonio
+293,Patient 293,M,32,Philadelphia
+294,Patient 294,F,21,New York
+295,Patient 295,M,58,San Diego
+296,Patient 296,F,39,Chicago
+297,Patient 297,M,37,San Jose
+298,Patient 298,F,64,Chicago
+299,Patient 299,F,83,San Diego
+300,Patient 300,F,55,San Jose
+301,Patient 301,F,66,San Antonio
+302,Patient 302,M,55,Houston
+303,Patient 303,M,73,Houston
+304,Patient 304,F,63,San Jose
+305,Patient 305,M,78,Houston
+306,Patient 306,M,61,San Diego
+307,Patient 307,F,76,Dallas
+308,Patient 308,M,81,Houston
+309,Patient 309,M,80,San Jose
+310,Patient 310,M,66,Houston
+311,Patient 311,F,73,Phoenix
+312,Patient 312,F,60,San Diego
+313,Patient 313,M,36,San Antonio
+314,Patient 314,M,83,Chicago
+315,Patient 315,F,60,Los Angeles
+316,Patient 316,M,85,San Antonio
+317,Patient 317,M,51,Los Angeles
+318,Patient 318,F,61,New York
+319,Patient 319,F,38,San Antonio
+320,Patient 320,M,40,San Jose
+321,Patient 321,M,56,Los Angeles
+322,Patient 322,F,80,Los Angeles
+323,Patient 323,F,68,San Diego
+324,Patient 324,M,38,Houston
+325,Patient 325,F,44,Dallas
+326,Patient 326,M,52,San Diego
+327,Patient 327,F,60,San Diego
+328,Patient 328,M,42,San Antonio
+329,Patient 329,F,33,Phoenix
+330,Patient 330,M,76,Philadelphia
+331,Patient 331,M,51,New York
+332,Patient 332,M,50,Chicago
+333,Patient 333,F,36,Chicago
+334,Patient 334,M,79,San Antonio
+335,Patient 335,M,72,Phoenix
+336,Patient 336,F,60,San Antonio
+337,Patient 337,F,74,San Jose
+338,Patient 338,M,66,Houston
+339,Patient 339,M,52,Houston
+340,Patient 340,M,22,New York
+341,Patient 341,M,67,Los Angeles
+342,Patient 342,M,60,Los Angeles
+343,Patient 343,M,24,San Diego
+344,Patient 344,M,27,Chicago
+345,Patient 345,F,81,Dallas
+346,Patient 346,F,68,New York
+347,Patient 347,M,26,Phoenix
+348,Patient 348,M,77,Dallas
+349,Patient 349,F,18,New York
+350,Patient 350,F,66,Chicago
+351,Patient 351,F,40,Phoenix
+352,Patient 352,M,60,San Diego
+353,Patient 353,F,52,San Jose
+354,Patient 354,F,79,Houston
+355,Patient 355,M,62,San Diego
+356,Patient 356,M,56,San Jose
+357,Patient 357,M,25,New York
+358,Patient 358,F,81,San Jose
+359,Patient 359,F,38,San Antonio
+360,Patient 360,F,68,New York
+361,Patient 361,M,33,San Antonio
+362,Patient 362,F,56,San Diego
+363,Patient 363,F,57,Los Angeles
+364,Patient 364,M,43,San Jose
+365,Patient 365,M,47,New York
+366,Patient 366,F,50,San Antonio
+367,Patient 367,M,36,Philadelphia
+368,Patient 368,M,65,Philadelphia
+369,Patient 369,M,45,Los Angeles
+370,Patient 370,F,62,Philadelphia
+371,Patient 371,F,29,Houston
+372,Patient 372,M,41,Chicago
+373,Patient 373,F,31,Dallas
+374,Patient 374,M,61,San Jose
+375,Patient 375,M,36,San Jose
+376,Patient 376,M,65,Houston
+377,Patient 377,F,20,San Antonio
+378,Patient 378,F,34,San Jose
+379,Patient 379,M,78,Dallas
+380,Patient 380,F,44,Los Angeles
+381,Patient 381,M,20,San Diego
+382,Patient 382,M,89,Phoenix
+383,Patient 383,F,49,Chicago
+384,Patient 384,F,76,San Antonio
+385,Patient 385,F,44,New York
+386,Patient 386,M,72,Dallas
+387,Patient 387,M,83,San Diego
+388,Patient 388,F,78,San Jose
+389,Patient 389,M,54,San Antonio
+390,Patient 390,M,83,Dallas
+391,Patient 391,F,44,San Diego
+392,Patient 392,F,65,Phoenix
+393,Patient 393,F,79,San Jose
+394,Patient 394,M,63,Los Angeles
+395,Patient 395,F,51,San Antonio
+396,Patient 396,F,43,Los Angeles
+397,Patient 397,M,63,San Antonio
+398,Patient 398,M,82,Chicago
+399,Patient 399,F,36,New York
+400,Patient 400,F,37,Chicago
+401,Patient 401,F,73,Houston
+402,Patient 402,M,77,San Diego
+403,Patient 403,M,65,Houston
+404,Patient 404,M,86,New York
+405,Patient 405,M,59,Philadelphia
+406,Patient 406,M,68,San Antonio
+407,Patient 407,M,34,Houston
+408,Patient 408,F,38,Chicago
+409,Patient 409,M,63,Chicago
+410,Patient 410,F,42,Dallas
+411,Patient 411,F,71,Chicago
+412,Patient 412,M,29,Los Angeles
+413,Patient 413,F,58,San Jose
+414,Patient 414,F,34,San Antonio
+415,Patient 415,M,59,Dallas
+416,Patient 416,F,18,Houston
+417,Patient 417,F,32,San Diego
+418,Patient 418,F,40,New York
+419,Patient 419,F,30,San Antonio
+420,Patient 420,M,46,Los Angeles
+421,Patient 421,M,71,New York
+422,Patient 422,M,18,San Antonio
+423,Patient 423,F,65,Philadelphia
+424,Patient 424,M,82,New York
+425,Patient 425,F,60,San Diego
+426,Patient 426,M,86,Houston
+427,Patient 427,F,51,San Antonio
+428,Patient 428,M,60,Philadelphia
+429,Patient 429,M,38,Phoenix
+430,Patient 430,F,28,San Antonio
+431,Patient 431,M,36,Los Angeles
+432,Patient 432,M,76,Phoenix
+433,Patient 433,M,26,New York
+434,Patient 434,F,36,San Jose
+435,Patient 435,F,22,San Jose
+436,Patient 436,M,39,Phoenix
+437,Patient 437,M,66,Houston
+438,Patient 438,F,69,Chicago
+439,Patient 439,M,33,Philadelphia
+440,Patient 440,F,56,Los Angeles
+441,Patient 441,M,45,Phoenix
+442,Patient 442,M,67,Phoenix
+443,Patient 443,M,60,San Antonio
+444,Patient 444,M,83,Chicago
+445,Patient 445,M,57,San Diego
+446,Patient 446,M,49,Philadelphia
+447,Patient 447,M,59,Houston
+448,Patient 448,M,44,Los Angeles
+449,Patient 449,M,56,Philadelphia
+450,Patient 450,M,44,San Jose
+451,Patient 451,M,41,Houston
+452,Patient 452,F,63,Philadelphia
+453,Patient 453,M,70,San Jose
+454,Patient 454,F,52,San Diego
+455,Patient 455,F,63,Phoenix
+456,Patient 456,M,37,San Jose
+457,Patient 457,M,20,New York
+458,Patient 458,F,84,San Diego
+459,Patient 459,M,26,San Antonio
+460,Patient 460,F,75,Chicago
+461,Patient 461,M,30,New York
+462,Patient 462,F,66,Philadelphia
+463,Patient 463,F,89,Philadelphia
+464,Patient 464,F,21,Phoenix
+465,Patient 465,M,52,Chicago
+466,Patient 466,F,32,Los Angeles
+467,Patient 467,F,72,New York
+468,Patient 468,F,22,Los Angeles
+469,Patient 469,F,57,Phoenix
+470,Patient 470,M,74,San Jose
+471,Patient 471,F,47,San Diego
+472,Patient 472,F,61,Los Angeles
+473,Patient 473,F,65,Dallas
+474,Patient 474,F,73,Phoenix
+475,Patient 475,M,77,New York
+476,Patient 476,F,50,Dallas
+477,Patient 477,M,49,Houston
+478,Patient 478,M,33,San Antonio
+479,Patient 479,F,37,Chicago
+480,Patient 480,F,23,San Diego
+481,Patient 481,F,20,Houston
+482,Patient 482,F,71,New York
+483,Patient 483,F,83,Dallas
+484,Patient 484,M,20,New York
+485,Patient 485,M,68,San Jose
+486,Patient 486,F,34,Dallas
+487,Patient 487,M,86,San Antonio
+488,Patient 488,M,71,Los Angeles
+489,Patient 489,M,45,Dallas
+490,Patient 490,F,39,New York
+491,Patient 491,M,74,Dallas
+492,Patient 492,F,65,Chicago
+493,Patient 493,M,47,San Jose
+494,Patient 494,F,30,Dallas
+495,Patient 495,F,20,Dallas
+496,Patient 496,M,81,San Diego
+497,Patient 497,M,22,Philadelphia
+498,Patient 498,F,41,San Diego
+499,Patient 499,M,69,San Diego
+500,Patient 500,F,79,San Jose
+501,Patient 501,M,39,Los Angeles
+502,Patient 502,M,23,New York
+503,Patient 503,F,51,Chicago
+504,Patient 504,F,35,Houston
+505,Patient 505,M,45,Houston
+506,Patient 506,F,59,Phoenix
+507,Patient 507,M,35,Philadelphia
+508,Patient 508,F,59,Dallas
+509,Patient 509,F,42,Los Angeles
+510,Patient 510,M,58,San Jose
+511,Patient 511,F,69,San Antonio
+512,Patient 512,M,32,New York
+513,Patient 513,M,62,Phoenix
+514,Patient 514,M,38,San Antonio
+515,Patient 515,F,72,San Diego
+516,Patient 516,M,86,Chicago
+517,Patient 517,F,48,San Antonio
+518,Patient 518,F,66,New York
+519,Patient 519,F,35,Dallas
+520,Patient 520,M,44,New York
+521,Patient 521,F,87,San Diego
+522,Patient 522,M,51,San Diego
+523,Patient 523,M,47,San Jose
+524,Patient 524,M,45,Dallas
+525,Patient 525,M,82,Dallas
+526,Patient 526,M,52,San Jose
+527,Patient 527,F,32,Chicago
+528,Patient 528,F,56,Dallas
+529,Patient 529,M,83,Philadelphia
+530,Patient 530,F,41,Dallas
+531,Patient 531,M,76,New York
+532,Patient 532,F,82,Phoenix
+533,Patient 533,M,89,San Jose
+534,Patient 534,M,35,Philadelphia
+535,Patient 535,M,24,Chicago
+536,Patient 536,F,39,Houston
+537,Patient 537,M,19,Dallas
+538,Patient 538,M,43,San Jose
+539,Patient 539,F,24,Houston
+540,Patient 540,M,21,San Jose
+541,Patient 541,F,79,Philadelphia
+542,Patient 542,F,22,Los Angeles
+543,Patient 543,F,66,Phoenix
+544,Patient 544,F,81,San Antonio
+545,Patient 545,M,34,Houston
+546,Patient 546,M,20,Los Angeles
+547,Patient 547,F,80,Philadelphia
+548,Patient 548,F,75,Phoenix
+549,Patient 549,F,35,San Antonio
+550,Patient 550,F,64,Dallas
+551,Patient 551,M,23,Chicago
+552,Patient 552,F,65,San Diego
+553,Patient 553,M,67,Los Angeles
+554,Patient 554,F,30,New York
+555,Patient 555,F,63,San Antonio
+556,Patient 556,M,63,Los Angeles
+557,Patient 557,M,54,New York
+558,Patient 558,F,43,San Diego
+559,Patient 559,F,53,Houston
+560,Patient 560,F,61,Houston
+561,Patient 561,F,89,Dallas
+562,Patient 562,F,79,San Antonio
+563,Patient 563,F,23,Phoenix
+564,Patient 564,M,85,Philadelphia
+565,Patient 565,F,20,Houston
+566,Patient 566,M,32,Philadelphia
+567,Patient 567,F,59,New York
+568,Patient 568,F,51,Chicago
+569,Patient 569,M,29,San Diego
+570,Patient 570,M,69,Los Angeles
+571,Patient 571,F,71,Philadelphia
+572,Patient 572,F,63,Phoenix
+573,Patient 573,M,77,New York
+574,Patient 574,M,78,San Jose
+575,Patient 575,F,23,Dallas
+576,Patient 576,F,28,Dallas
+577,Patient 577,F,53,San Diego
+578,Patient 578,M,22,San Diego
+579,Patient 579,F,39,Chicago
+580,Patient 580,F,85,New York
+581,Patient 581,F,25,Phoenix
+582,Patient 582,F,65,San Jose
+583,Patient 583,M,22,Los Angeles
+584,Patient 584,F,35,Phoenix
+585,Patient 585,M,63,San Jose
+586,Patient 586,F,57,San Diego
+587,Patient 587,F,31,Phoenix
+588,Patient 588,M,41,Phoenix
+589,Patient 589,F,22,Houston
+590,Patient 590,F,59,Dallas
+591,Patient 591,F,22,Philadelphia
+592,Patient 592,M,42,New York
+593,Patient 593,M,74,Los Angeles
+594,Patient 594,F,89,Philadelphia
+595,Patient 595,F,34,Chicago
+596,Patient 596,M,46,Chicago
+597,Patient 597,M,29,Phoenix
+598,Patient 598,F,30,Chicago
+599,Patient 599,M,35,Philadelphia
+600,Patient 600,F,60,San Antonio
+601,Patient 601,F,46,San Jose
+602,Patient 602,M,60,San Antonio
+603,Patient 603,F,42,New York
+604,Patient 604,F,66,Dallas
+605,Patient 605,M,84,New York
+606,Patient 606,M,34,New York
+607,Patient 607,M,60,San Antonio
+608,Patient 608,M,41,San Antonio
+609,Patient 609,F,72,San Diego
+610,Patient 610,F,55,Los Angeles
+611,Patient 611,M,43,San Jose
+612,Patient 612,M,70,Chicago
+613,Patient 613,M,61,Dallas
+614,Patient 614,M,88,Philadelphia
+615,Patient 615,F,52,San Antonio
+616,Patient 616,F,51,Houston
+617,Patient 617,F,45,New York
+618,Patient 618,M,85,Dallas
+619,Patient 619,F,81,San Jose
+620,Patient 620,M,88,Dallas
+621,Patient 621,M,47,Phoenix
+622,Patient 622,F,62,Phoenix
+623,Patient 623,M,81,Chicago
+624,Patient 624,F,38,Los Angeles
+625,Patient 625,M,43,Los Angeles
+626,Patient 626,M,84,Phoenix
+627,Patient 627,M,81,Houston
+628,Patient 628,F,70,Los Angeles
+629,Patient 629,M,89,San Jose
+630,Patient 630,F,66,Phoenix
+631,Patient 631,F,80,Chicago
+632,Patient 632,F,54,Phoenix
+633,Patient 633,F,30,Dallas
+634,Patient 634,F,51,Phoenix
+635,Patient 635,F,49,San Antonio
+636,Patient 636,F,43,Chicago
+637,Patient 637,M,77,San Jose
+638,Patient 638,M,46,Los Angeles
+639,Patient 639,M,27,San Antonio
+640,Patient 640,M,26,Philadelphia
+641,Patient 641,F,44,New York
+642,Patient 642,M,18,New York
+643,Patient 643,M,66,Los Angeles
+644,Patient 644,M,75,San Diego
+645,Patient 645,F,52,Philadelphia
+646,Patient 646,M,68,Dallas
+647,Patient 647,M,45,San Jose
+648,Patient 648,F,19,Chicago
+649,Patient 649,F,85,Phoenix
+650,Patient 650,F,60,San Antonio
+651,Patient 651,M,86,Philadelphia
+652,Patient 652,F,41,Phoenix
+653,Patient 653,M,88,Phoenix
+654,Patient 654,F,70,San Antonio
+655,Patient 655,F,21,San Jose
+656,Patient 656,F,26,Philadelphia
+657,Patient 657,F,83,Houston
+658,Patient 658,M,37,Houston
+659,Patient 659,F,53,Chicago
+660,Patient 660,F,66,Houston
+661,Patient 661,F,87,San Jose
+662,Patient 662,M,57,Dallas
+663,Patient 663,M,74,Dallas
+664,Patient 664,M,80,Philadelphia
+665,Patient 665,M,72,Chicago
+666,Patient 666,F,42,Chicago
+667,Patient 667,F,45,Philadelphia
+668,Patient 668,F,19,San Jose
+669,Patient 669,M,78,Phoenix
+670,Patient 670,F,44,Philadelphia
+671,Patient 671,F,63,San Jose
+672,Patient 672,M,20,Houston
+673,Patient 673,F,52,San Diego
+674,Patient 674,M,44,Dallas
+675,Patient 675,F,43,Dallas
+676,Patient 676,M,33,Los Angeles
+677,Patient 677,F,21,San Diego
+678,Patient 678,M,46,Chicago
+679,Patient 679,M,78,Houston
+680,Patient 680,M,67,San Jose
+681,Patient 681,M,78,New York
+682,Patient 682,M,88,Los Angeles
+683,Patient 683,F,68,New York
+684,Patient 684,F,46,Dallas
+685,Patient 685,M,33,Houston
+686,Patient 686,F,87,Phoenix
+687,Patient 687,F,79,Los Angeles
+688,Patient 688,M,72,Houston
+689,Patient 689,F,33,Dallas
+690,Patient 690,F,50,Houston
+691,Patient 691,M,68,Phoenix
+692,Patient 692,F,65,Chicago
+693,Patient 693,F,63,Philadelphia
+694,Patient 694,F,65,Phoenix
+695,Patient 695,M,28,Philadelphia
+696,Patient 696,M,89,New York
+697,Patient 697,F,86,Philadelphia
+698,Patient 698,M,19,Houston
+699,Patient 699,M,19,Chicago
+700,Patient 700,F,83,Phoenix
+701,Patient 701,F,53,Houston
+702,Patient 702,F,82,Houston
+703,Patient 703,F,61,Philadelphia
+704,Patient 704,F,71,San Antonio
+705,Patient 705,M,64,Houston
+706,Patient 706,F,47,Los Angeles
+707,Patient 707,F,64,San Antonio
+708,Patient 708,M,25,New York
+709,Patient 709,M,77,Chicago
+710,Patient 710,F,76,Chicago
+711,Patient 711,F,35,San Antonio
+712,Patient 712,M,60,Phoenix
+713,Patient 713,F,23,Los Angeles
+714,Patient 714,F,51,New York
+715,Patient 715,M,77,New York
+716,Patient 716,M,30,San Antonio
+717,Patient 717,F,33,Los Angeles
+718,Patient 718,F,69,Chicago
+719,Patient 719,M,55,Los Angeles
+720,Patient 720,M,83,New York
+721,Patient 721,F,53,San Antonio
+722,Patient 722,F,35,San Antonio
+723,Patient 723,M,18,San Jose
+724,Patient 724,M,39,Chicago
+725,Patient 725,M,52,Philadelphia
+726,Patient 726,F,86,Dallas
+727,Patient 727,F,24,Houston
+728,Patient 728,F,82,San Diego
+729,Patient 729,M,43,Dallas
+730,Patient 730,F,57,New York
+731,Patient 731,F,30,Dallas
+732,Patient 732,M,46,Chicago
+733,Patient 733,M,72,Phoenix
+734,Patient 734,F,79,Dallas
+735,Patient 735,M,40,Dallas
+736,Patient 736,F,49,San Diego
+737,Patient 737,M,61,Los Angeles
+738,Patient 738,M,44,San Jose
+739,Patient 739,M,57,Chicago
+740,Patient 740,M,46,New York
+741,Patient 741,F,57,Los Angeles
+742,Patient 742,M,69,San Jose
+743,Patient 743,F,61,Chicago
+744,Patient 744,F,31,San Jose
+745,Patient 745,M,32,San Antonio
+746,Patient 746,M,80,Philadelphia
+747,Patient 747,M,77,San Diego
+748,Patient 748,M,71,Philadelphia
+749,Patient 749,F,37,Dallas
+750,Patient 750,M,34,Phoenix
+751,Patient 751,F,70,San Diego
+752,Patient 752,F,82,Houston
+753,Patient 753,M,26,San Diego
+754,Patient 754,F,42,Philadelphia
+755,Patient 755,F,59,Dallas
+756,Patient 756,F,53,Houston
+757,Patient 757,F,18,New York
+758,Patient 758,M,36,New York
+759,Patient 759,M,66,Phoenix
+760,Patient 760,M,45,Dallas
+761,Patient 761,M,83,San Antonio
+762,Patient 762,F,46,Dallas
+763,Patient 763,M,36,San Diego
+764,Patient 764,M,56,Phoenix
+765,Patient 765,M,70,Houston
+766,Patient 766,F,31,San Jose
+767,Patient 767,M,79,Los Angeles
+768,Patient 768,M,34,Dallas
+769,Patient 769,F,33,Phoenix
+770,Patient 770,F,67,San Antonio
+771,Patient 771,M,84,San Antonio
+772,Patient 772,F,43,Houston
+773,Patient 773,M,88,Dallas
+774,Patient 774,M,77,Houston
+775,Patient 775,M,39,Phoenix
+776,Patient 776,F,88,Dallas
+777,Patient 777,F,76,Phoenix
+778,Patient 778,F,31,Chicago
+779,Patient 779,F,36,San Antonio
+780,Patient 780,F,27,San Antonio
+781,Patient 781,M,34,Phoenix
+782,Patient 782,M,26,New York
+783,Patient 783,M,27,Los Angeles
+784,Patient 784,F,56,San Antonio
+785,Patient 785,F,88,Philadelphia
+786,Patient 786,F,71,Houston
+787,Patient 787,M,83,Los Angeles
+788,Patient 788,F,49,Phoenix
+789,Patient 789,M,26,Dallas
+790,Patient 790,F,65,Phoenix
+791,Patient 791,F,23,San Diego
+792,Patient 792,M,33,San Diego
+793,Patient 793,F,20,San Jose
+794,Patient 794,F,61,Houston
+795,Patient 795,M,67,New York
+796,Patient 796,F,27,Chicago
+797,Patient 797,M,33,San Antonio
+798,Patient 798,M,82,Phoenix
+799,Patient 799,M,80,Philadelphia
+800,Patient 800,M,47,Los Angeles
+801,Patient 801,M,42,Houston
+802,Patient 802,F,34,Phoenix
+803,Patient 803,M,48,Houston
+804,Patient 804,F,30,Philadelphia
+805,Patient 805,M,26,Chicago
+806,Patient 806,F,56,Houston
+807,Patient 807,F,30,Philadelphia
+808,Patient 808,F,56,San Antonio
+809,Patient 809,M,24,San Jose
+810,Patient 810,F,54,San Diego
+811,Patient 811,M,46,San Jose
+812,Patient 812,F,65,San Antonio
+813,Patient 813,M,67,San Diego
+814,Patient 814,F,35,New York
+815,Patient 815,M,80,New York
+816,Patient 816,M,48,San Diego
+817,Patient 817,M,35,San Diego
+818,Patient 818,F,86,San Diego
+819,Patient 819,F,38,San Diego
+820,Patient 820,F,69,San Jose
+821,Patient 821,F,20,New York
+822,Patient 822,F,44,New York
+823,Patient 823,M,46,San Antonio
+824,Patient 824,F,84,Houston
+825,Patient 825,F,85,Phoenix
+826,Patient 826,M,38,Chicago
+827,Patient 827,M,49,New York
+828,Patient 828,M,27,Los Angeles
+829,Patient 829,F,41,Phoenix
+830,Patient 830,M,78,Houston
+831,Patient 831,F,45,Phoenix
+832,Patient 832,M,51,Los Angeles
+833,Patient 833,M,65,Chicago
+834,Patient 834,F,51,Philadelphia
+835,Patient 835,M,32,New York
+836,Patient 836,F,32,San Diego
+837,Patient 837,M,47,Chicago
+838,Patient 838,F,75,New York
+839,Patient 839,F,82,Philadelphia
+840,Patient 840,M,72,San Antonio
+841,Patient 841,F,53,Houston
+842,Patient 842,F,62,San Antonio
+843,Patient 843,M,34,Phoenix
+844,Patient 844,F,84,Chicago
+845,Patient 845,M,22,San Jose
+846,Patient 846,F,20,New York
+847,Patient 847,M,68,Dallas
+848,Patient 848,F,44,Chicago
+849,Patient 849,F,30,San Diego
+850,Patient 850,F,64,San Jose
+851,Patient 851,F,65,Chicago
+852,Patient 852,M,28,New York
+853,Patient 853,F,45,Philadelphia
+854,Patient 854,F,83,Phoenix
+855,Patient 855,F,59,New York
+856,Patient 856,F,51,San Jose
+857,Patient 857,F,19,San Jose
+858,Patient 858,F,66,San Diego
+859,Patient 859,F,76,New York
+860,Patient 860,M,89,Los Angeles
+861,Patient 861,F,87,New York
+862,Patient 862,M,44,Philadelphia
+863,Patient 863,F,37,Dallas
+864,Patient 864,M,31,Phoenix
+865,Patient 865,M,28,Phoenix
+866,Patient 866,M,65,Houston
+867,Patient 867,F,30,San Jose
+868,Patient 868,M,22,New York
+869,Patient 869,F,34,New York
+870,Patient 870,F,56,San Jose
+871,Patient 871,F,88,Dallas
+872,Patient 872,F,82,Chicago
+873,Patient 873,F,76,Houston
+874,Patient 874,M,65,San Antonio
+875,Patient 875,M,48,Philadelphia
+876,Patient 876,F,86,San Antonio
+877,Patient 877,M,34,Dallas
+878,Patient 878,F,67,New York
+879,Patient 879,F,55,San Antonio
+880,Patient 880,F,53,Dallas
+881,Patient 881,M,76,San Jose
+882,Patient 882,M,56,San Antonio
+883,Patient 883,M,89,Houston
+884,Patient 884,F,32,Chicago
+885,Patient 885,F,56,Phoenix
+886,Patient 886,F,20,New York
+887,Patient 887,F,43,Los Angeles
+888,Patient 888,F,81,Los Angeles
+889,Patient 889,M,26,New York
+890,Patient 890,M,85,San Jose
+891,Patient 891,F,84,San Jose
+892,Patient 892,F,64,San Diego
+893,Patient 893,F,22,Houston
+894,Patient 894,F,61,Philadelphia
+895,Patient 895,F,43,Dallas
+896,Patient 896,F,49,San Diego
+897,Patient 897,M,34,San Jose
+898,Patient 898,M,62,Houston
+899,Patient 899,M,34,Dallas
+900,Patient 900,M,74,San Diego
+901,Patient 901,F,47,San Diego
+902,Patient 902,F,31,Philadelphia
+903,Patient 903,F,63,San Antonio
+904,Patient 904,M,83,Dallas
+905,Patient 905,F,32,Los Angeles
+906,Patient 906,M,46,Philadelphia
+907,Patient 907,F,52,Philadelphia
+908,Patient 908,F,33,San Antonio
+909,Patient 909,F,48,Phoenix
+910,Patient 910,F,54,Dallas
+911,Patient 911,M,22,New York
+912,Patient 912,F,59,Houston
+913,Patient 913,M,21,Houston
+914,Patient 914,F,63,San Antonio
+915,Patient 915,M,81,Phoenix
+916,Patient 916,M,73,Los Angeles
+917,Patient 917,F,18,Dallas
+918,Patient 918,F,82,Houston
+919,Patient 919,F,87,Los Angeles
+920,Patient 920,F,38,Chicago
+921,Patient 921,F,38,Dallas
+922,Patient 922,F,79,Houston
+923,Patient 923,M,27,San Antonio
+924,Patient 924,M,87,San Jose
+925,Patient 925,M,22,Los Angeles
+926,Patient 926,F,24,San Jose
+927,Patient 927,F,32,Phoenix
+928,Patient 928,M,19,Philadelphia
+929,Patient 929,F,32,San Jose
+930,Patient 930,F,80,Chicago
+931,Patient 931,M,48,San Diego
+932,Patient 932,M,80,Dallas
+933,Patient 933,M,27,San Antonio
+934,Patient 934,M,21,San Antonio
+935,Patient 935,M,34,San Antonio
+936,Patient 936,M,44,San Antonio
+937,Patient 937,F,65,Philadelphia
+938,Patient 938,M,19,San Diego
+939,Patient 939,F,51,San Diego
+940,Patient 940,M,24,New York
+941,Patient 941,F,27,San Diego
+942,Patient 942,M,23,Philadelphia
+943,Patient 943,F,18,Philadelphia
+944,Patient 944,F,41,San Jose
+945,Patient 945,M,68,Chicago
+946,Patient 946,F,49,San Diego
+947,Patient 947,F,87,San Diego
+948,Patient 948,F,61,Houston
+949,Patient 949,M,28,San Jose
+950,Patient 950,M,36,Dallas
+951,Patient 951,M,56,Los Angeles
+952,Patient 952,M,32,San Diego
+953,Patient 953,M,56,Dallas
+954,Patient 954,M,18,Los Angeles
+955,Patient 955,F,22,Phoenix
+956,Patient 956,F,65,San Antonio
+957,Patient 957,M,87,San Diego
+958,Patient 958,F,61,San Antonio
+959,Patient 959,F,24,Chicago
+960,Patient 960,M,20,Los Angeles
+961,Patient 961,F,72,Los Angeles
+962,Patient 962,F,41,Houston
+963,Patient 963,F,21,Dallas
+964,Patient 964,M,61,San Antonio
+965,Patient 965,M,59,Phoenix
+966,Patient 966,F,31,New York
+967,Patient 967,F,76,Dallas
+968,Patient 968,M,36,San Jose
+969,Patient 969,F,82,Philadelphia
+970,Patient 970,M,66,New York
+971,Patient 971,M,36,Phoenix
+972,Patient 972,M,62,San Antonio
+973,Patient 973,F,75,New York
+974,Patient 974,F,41,San Jose
+975,Patient 975,M,48,Los Angeles
+976,Patient 976,F,66,San Antonio
+977,Patient 977,M,51,San Diego
+978,Patient 978,F,39,Phoenix
+979,Patient 979,F,82,Philadelphia
+980,Patient 980,M,83,Houston
+981,Patient 981,F,26,San Antonio
+982,Patient 982,F,83,Los Angeles
+983,Patient 983,M,34,San Diego
+984,Patient 984,M,88,Houston
+985,Patient 985,F,74,San Diego
+986,Patient 986,M,29,San Jose
+987,Patient 987,M,79,Dallas
+988,Patient 988,F,74,San Diego
+989,Patient 989,F,63,San Diego
+990,Patient 990,M,48,San Antonio
+991,Patient 991,M,61,Los Angeles
+992,Patient 992,F,63,Philadelphia
+993,Patient 993,M,88,San Diego
+994,Patient 994,M,54,New York
+995,Patient 995,M,25,San Jose
+996,Patient 996,M,22,Chicago
+997,Patient 997,F,26,Chicago
+998,Patient 998,M,30,New York
+999,Patient 999,F,25,New York
+1000,Patient 1000,F,71,Dallas
