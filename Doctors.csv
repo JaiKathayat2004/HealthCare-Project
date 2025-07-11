@@ -1,0 +1,21 @@
+﻿doctor_id,name,specialization,department,experience
+101,Dr. Wilson,ENT,Ortho,16
+102,Dr. Lee,Cardiology,Childcare,26
+103,Dr. Fox,General Medicine,General,19
+104,Dr. Patel,ENT,Neuro,22
+105,Dr. Khan,General Medicine,Childcare,28
+106,Dr. Singh,General Medicine,Childcare,8
+107,Dr. Brown,General Medicine,Skin,10
+108,Dr. Clark,General Medicine,Ortho,20
+109,Dr. Davis,Dermatology,ENT,6
+110,Dr. Martin,Dermatology,ENT,11
+111,Dr. Evans,Neurology,Childcare,5
+112,Dr. Baker,Dermatology,Neuro,11
+113,Dr. Turner,Cardiology,Skin,14
+114,Dr. Adams,Orthopedics,Cardio,22
+115,Dr. Young,Orthopedics,Cardio,19
+116,Dr. Hill,Neurology,ENT,26
+117,Dr. Scott,Dermatology,Childcare,8
+118,Dr. Green,Dermatology,Cardio,21
+119,Dr. Hall,Pediatrics,General,22
+120,Dr. Wood,Neurology,General,22
